@@ -1,0 +1,4 @@
+Training time- in seconds: 1998.586407
+Inference time- in seconds: 5.917137
+Inference time for each instance- in miliseconds: 1.4403936222005844
+Test - MAE: 10.270, MAPE: inf
