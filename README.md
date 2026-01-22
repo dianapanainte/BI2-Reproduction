@@ -12,7 +12,7 @@
 
 - For experiment 1, our modifications to the code are very limited, as such we added in this repo a zip folder with the results of the run
 
-- For experiment 2, the code was changed in several places so that it can run without errors on our machine
+- For experiment 2, the code was changed in several places so that it can run without errors on our machine. The steps to try this second experiment should still be those from the original README, because we solved the errors for each script in the order they appeared 
 
 ## 3. System Information
 
